@@ -1,5 +1,5 @@
 # ENN-IB2-with-python
-an implementation of the END and IB2 algorithms using python
+an implementation of the ENN and IB2 algorithms using python
 
 In this repository you will find a python program for nomralization in a data set and the implementation of the ENN and IB2 in python. 
 
